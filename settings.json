@@ -6,10 +6,10 @@
     "type": "offline"
   },
   "server": {
-    "ip": "lebomboclatis.aternos.me",
-    "port": 45228,
-    "version": "1.21.11",
-    "try-creative": false
+    "ip": "tuntunsahullagoat.aternos.me",
+    "port": 36635,
+    "version": "26.2",
+    "try-creative": true
   },
   "position": {
     "enabled": true,
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 600,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Amo a tung tung sahul",
+        "Que onichan me siento (˶˃ ᵕ ˂˶)!",
+        "Yo soy el grande sahul"
       ]
     },
     "chat-log": true,
